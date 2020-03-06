@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="current">Current Session</string>
+    <string name="all">All Time</string>
+    <string name="resetCurrent">Reset Current Session</string>
+    <string name="resetAll">Reset All</string>
+</resources>
